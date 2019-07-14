@@ -1,0 +1,21 @@
+[
+    {
+        "environment": "testing",
+        "firstname": "Cosmin - Testing",
+        "lastname": "Crisan - Testing",
+        
+        "linkedservicePath": "./LinkedService/data.json",
+        "datasetPath": "./Dataset/data.json",
+        "pipelinePath": "./Pipeline/data.json"
+    },
+
+    {
+        "environment": "production",
+        "firstname": "Cosmin - Production",
+        "lastname": "Crisan - Production",
+
+        "linkedservicePath": "./LinkedService/data.json",
+        "datasetPath": "./Dataset/data.json",
+        "pipelinePath": "./Pipeline/data.json"
+    }
+]
